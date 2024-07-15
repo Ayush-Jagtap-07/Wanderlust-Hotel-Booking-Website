@@ -124,6 +124,13 @@ body {
         height: 200px;
         width: 175px;
     }
+
+    .show-img {
+        object-fit: cover !important;
+        height: 20vh !important;
+        width: 60vw !important;
+        border: none;
+    }
 }
 /* Filter bar */
 
